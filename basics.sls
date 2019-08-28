@@ -1,2 +1,2 @@
 lsof:
-  pkg.installed
+  pkg.removed
