@@ -7,6 +7,6 @@ nz_locale:
 
 default_locale:
   locale.system:
-    - name: en_NZ.utf8
+    - name: en_NZ.UTF-8
     - require:
       - locale: nz_locale
